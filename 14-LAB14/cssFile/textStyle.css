@@ -1,0 +1,16 @@
+/* 
+    Created on : Dec 12, 2021, 2:45:59 PM
+    Author     : dahroug
+*/
+#t1
+{
+    -fx-fill: red;
+    -fx-font-weigth: bold;
+    -fx-font-size: 30;
+    -fx-box-reflect: below 10px;
+}
+
+#r1
+{
+    -fx-fill: linear-gradient(black, white, black);
+}
